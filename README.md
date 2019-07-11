@@ -12,6 +12,9 @@ Replicate any image, pixel by pixel, using Turtle and Python.
 3. Then, the first square is created and filled with the corresponding pixel RGB value.
 4. This process of creating a small square and filling it with the color fo the corresponding image is repeated for the rest of the image.
 
+## Dependencies
+
+    pip3 install pillow && sudo apt install python3-tk
 
 ## Licensing
 
